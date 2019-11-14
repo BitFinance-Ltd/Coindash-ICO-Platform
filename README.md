@@ -1,5 +1,5 @@
 
-# COINDASH ICO PLATFORM
+# COINDASH - ICO PLATFORM
 
 ##### The Initial Coin Offering (ICO) Platform is a web-based application.
 
