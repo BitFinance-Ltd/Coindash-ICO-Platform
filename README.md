@@ -1,7 +1,7 @@
 
 # COINDASH - ICO PLATFORM
 
-##### The Initial Coin Offering (ICO) Platform is a web-based application.
+### The Initial Coin Offering (ICO) Platform is a web-based application.
 
 
 The Coindash Initial Coin Offering (ICO) Platform is a web-based application that allows you to earn <your_company > tokens (<your_tokens>) at the point of initial allocation. <your_tokens> are earned by making contributions in either BTC, COINDASH or STRAT. Changelly is also integrated into the ICO Platform, and you can use this service to convert other cryptocurrencies into COINDASH or STRAT before contributing.
